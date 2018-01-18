@@ -1,5 +1,6 @@
 # Mac
 .DS_Store
+.idea/
 
 # Python / Django
 *.pyc
